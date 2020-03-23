@@ -1,5 +1,6 @@
 {
     "name": "givetogether",
+    "homepage": "./",
     "version": "1.0.0",
     "description": "A no loss way to give charitable donations to a new charity each week",
     "author": "Lucas Kohorst",
